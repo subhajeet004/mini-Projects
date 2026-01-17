@@ -41,7 +41,7 @@ A collection of digital design projects ranging from basic logic gates to comple
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/verilog-mini-projects.git](https://github.com/your-username/verilog-mini-projects.git)
+    git clone [https://github.com/subhajeet004/verilog-mini-projects.git](https://github.com/subhajeet004/verilog-mini-projects.git)
     ```
 2.  **Navigate to a project directory:**
     ```bash
